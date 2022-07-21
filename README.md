@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Data structures**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: caimin.ing2024@esaip.org</h3>
 <p align="left">
 </p>
 
