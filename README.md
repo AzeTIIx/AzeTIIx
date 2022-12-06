@@ -92,7 +92,7 @@
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CharlesAIMIN&show_icons=true&count_private=true&hide_border=true" align="center" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CharlesAIMIN&show_icons=true&theme=transparent" align="center" />
 </div>  
 <br>
 <div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/AzeTIIx.png" alt="TryHackMe"></div>
