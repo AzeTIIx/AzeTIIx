@@ -15,7 +15,10 @@
 </p>
 
 ## My Skill Set  
-<div align="center"><table><tr><td valign="top" width="33%">
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="25%">
 
 
 
@@ -25,7 +28,8 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+      <td valign="top" width="25%">
 
 
 
@@ -36,10 +40,26 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+  
+
+  <td valign="top" width="25%">
+    
+### Hacking tools  
+<div align="center">  
+<a href="https://nmap.org/" target="_blank"><img style="margin: 10px" src="https://github.com/CharlesAIMIN/CharlesAIMIN/blob/main/nmap.png" alt="nmap" height="50" /></a>  
+<a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://github.com/CharlesAIMIN/CharlesAIMIN/blob/main/wireshark.png" alt="Wireshark" height="50" /></a>  
+<a href="https://www.openwall.com/john/" target="_blank"><img style="margin: 10px" src="https://github.com/CharlesAIMIN/CharlesAIMIN/blob/main/JohntheRipper.png" alt="John" height="50" /></a>  
+<a href="https://hashcat.net/hashcat/" target="_blank"><img style="margin: 10px" src="https://github.com/CharlesAIMIN/CharlesAIMIN/blob/main/hashcat.png" alt="HashCat" height="50" /></a>  
+<a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://github.com/CharlesAIMIN/CharlesAIMIN/blob/main/burp.png" alt="Burp Suit" height="50" /></a> 
+<a href="https://www.metasploit.com/" target="_blank"><img style="margin: 10px" src="https://github.com/CharlesAIMIN/CharlesAIMIN/blob/main/metasploit.jpg" alt="Metasploit Suit" height="50" /></a> 
+</div>
 
 
-
+</td>
+      
+   <td valign="top" width="25%">
+    
 ### Others  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -47,9 +67,13 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td></tr></table>  </div>
 
-<br/>  
+</td>     
+</tr>
+</table>  
+</div>
+
+<br>  
 
 
 <br/>  
