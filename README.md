@@ -99,6 +99,9 @@
 </div>  
 <br>
 <div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/AzeTIIx.png" alt="TryHackMe"></div>
+<br>
+<div align="center"><a href="https://www.root-me.org/AzeTIx?lang=fr#f3a886cadee415475fa9f737739d1c77" target="_blank"><img src="https://github.com/CharlesAIMIN/CharlesAIMIN/blob/main/rootme.png" alt="charlesaimin" /></a></div>
+
 
 <br/>  
 
