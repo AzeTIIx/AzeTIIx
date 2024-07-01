@@ -38,7 +38,7 @@
           <a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/wireshark.png" alt="Wireshark" height="50" /></a>  
           <a href="https://www.openwall.com/john/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/JohntheRipper.png" alt="John the Ripper" height="50" /></a>  
           <a href="https://hashcat.net/hashcat/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/hashcat.png" alt="HashCat" height="50" /></a>  
-          <a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/burp.png" alt="Burp Suite" height="50" /></a> 
+          <a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/burpsuite.png" alt="Burp Suite" height="50" /></a> 
           <a href="https://www.metasploit.com/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/metasploit.jpg" alt="Metasploit" height="50" /></a> 
         </div>
       </td>
