@@ -33,7 +33,7 @@
         </div>
       </td><td valign="top" width="25%">
         <div align="center">  
-          <h3>Framweorks</h3>
+          <h3>Frameworks</h3>
           <a href="https://www.djangoproject.com/" target="_blank"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="50"/> </a>
           <a href="https://flask.palletsprojects.com/" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="50"/> </a>
         </div>
