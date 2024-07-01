@@ -48,7 +48,7 @@
             <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
             <a href="https://postman.com" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> </a>
             <a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/burpsuite.png" alt="Burp Suite" height="70" /></a> 
-            <a href="https://exegol.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/exegol.jpg" alt="Exegol <3" height="50" /></a> 
+            <a href="https://exegol.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/exegol.png" alt="Exegol <3" height="50" /></a> 
         </div>
       </td>     
     </tr>
