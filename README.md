@@ -19,35 +19,36 @@
       <td valign="top" width="25%">
         <div align="center">  
           <h3>Frontend</h3>
-          <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-          <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+            <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+            <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
         </div>
       </td>
       <td valign="top" width="25%">
         <div align="center">  
           <h3>Backend</h3>
           <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-          <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+          <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
           <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
         </div>
-      </td>
-      <td valign="top" width="25%">
+      </td><td valign="top" width="25%">
         <div align="center">  
-          <h3>Hacking Tools</h3>
-          <a href="https://nmap.org/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/nmap.png" alt="nmap" height="50" /></a>  
-          <a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/wireshark.png" alt="Wireshark" height="50" /></a>  
-          <a href="https://www.openwall.com/john/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/JohntheRipper.png" alt="John the Ripper" height="50" /></a>  
-          <a href="https://hashcat.net/hashcat/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/hashcat.png" alt="HashCat" height="50" /></a>  
-          <a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/burpsuite.png" alt="Burp Suite" height="50" /></a> 
-          <a href="https://www.metasploit.com/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/metasploit.jpg" alt="Metasploit" height="50" /></a> 
+          <h3>Framweorks</h3>
+          <a href="https://www.djangoproject.com/" target="_blank"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="50"/> </a>
+          <a href="https://flask.palletsprojects.com/" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="50"/> </a>
         </div>
       </td>
       <td valign="top" width="25%">
         <div align="center">  
           <h3>Others</h3>
-          <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-          <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-          <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+            <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+            <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+            <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+            <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+            <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+            <a href="https://postman.com" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> </a>
+            <a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/burpsuite.png" alt="Burp Suite" height="70" /></a> 
+            <a href="https://exegol.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://github.com/AzeTIIx/AzeTIIx/blob/main/exegol.jpg" alt="Exegol <3" height="50" /></a> 
         </div>
       </td>     
     </tr>
