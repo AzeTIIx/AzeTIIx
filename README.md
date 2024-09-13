@@ -36,6 +36,7 @@
           <h3>Frameworks</h3>
           <a href="https://www.djangoproject.com/" target="_blank"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="50"/> </a>
           <a href="https://flask.palletsprojects.com/" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="50"/> </a>
+          <a href="https://vitepress.dev/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Flask" height="50"/> </a>
         </div>
       </td>
       <td valign="top" width="25%">
